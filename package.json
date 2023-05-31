@@ -1,0 +1,28 @@
+{
+  "name": "leetcode",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "axios": "^1.4.0",
+    "js-confetti": "^0.11.0",
+    "markdown-to-text": "^0.1.1",
+    "md-editor-v3": "^4.0.2",
+    "monaco-editor": "^0.37.1",
+    "punycode": "2.3.0",
+    "sass": "^1.62.1",
+    "scss": "^0.2.4",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
